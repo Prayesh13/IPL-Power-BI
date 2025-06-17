@@ -2,7 +2,7 @@ Certainly! Here's a comprehensive `README.md` for your GitHub project, **[IPL-Po
 
 ---
 
-# 🏏 IPL Data Analysis (2008–2024) using Power BI
+# 🏏 [IPL Data Analysis (2008–2024) using Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjBjYTQwYWMtODFhOC00MDZmLWEyODgtOTlkYzIyOTkwOWU3IiwidCI6IjFkOTM3YmRjLTU5MDgtNDY4YS1hYjFmLTQ0OTNlNjgwOWE3NSJ9)
 
 This project leverages Microsoft Power BI to analyze and visualize Indian Premier League (IPL) cricket data from 2008 to 2024. The interactive dashboards offer insights into match outcomes, player performances, team statistics, and seasonal trends, catering to cricket enthusiasts and data analysts alike.
 
